@@ -1,2 +1,2 @@
 # sparksTasks
-Its is all about EXploratoty data on stores.csv
+Its is all about Exploratoty data on stores.csv
